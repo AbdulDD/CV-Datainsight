@@ -1,4 +1,4 @@
-# Comoputer vision internship at Datainsight Research Lab, Fast University, Islamabad
+# Computer vision internship at Datainsight Research Lab, Fast University, Islamabad
 
 # Tasks
 - [ ] End-to-End text detection and recognition using PGNet
