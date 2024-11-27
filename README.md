@@ -3,4 +3,4 @@
 # Tasks
 - [ ] End-to-End text detection and recognition using PGNet
 - [ ] Text recognition (OCR) using TrOCR
-- [ ] Name Entity Recognition (NER) using DistillGPT2
+- [ ] Name Entity Recognition (NER) using BERT
